@@ -3,7 +3,7 @@ Requires .NET Framework 4.8
 
 ### Editor
 
-NOTE: The main "Frost4" editor tool is being heavily reworked, the older source code was very unfunctional. The time to rework will vary but the goal is to push out a better tool that is dynamic and user-friendly.
+NOTE: The main Frost4 Editor tool is being heavily reworked, the older source code was very unfunctional. The time to rework will vary but the goal is to push out a better tool that is dynamic and user-friendly.
 
 ~~Currently very BETA, current purposes are data analysis but the tool can be used to browse the ebx/res filesystem of Frostbite on PS4 specifically for Mirror's Edge Catalyst.~~
 
