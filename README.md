@@ -1,4 +1,4 @@
-## Frost4-Toolkit
+## Frost4
 Requires .NET Framework 4.8
 
 ### Editor
